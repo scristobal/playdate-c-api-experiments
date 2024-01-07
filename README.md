@@ -4,11 +4,13 @@ Untitled Playdate game, devtest project using the C API
 
 ## Setup
 
-1. Install Visual Studio Code plugin <https://marketplace.visualstudio.com/items?itemName=midouest.playdate-debug>
-1. Create a project using the cookiecutter at <https://github.com/midouest/cookiecutter-playdate> or `cookiecutter-playdate` if cached
-1. open SDK folder `open $PLAYDATE_SDK_PATH` go to `API_C/Examples` choose an example an copy contents
+Install Visual Studio Code plugin [playdate-debug](https://marketplace.visualstudio.com/items?itemName=midouest.playdate-debug), create a project using the template [cookiecutter-playdate](https://github.com/midouest/cookiecutter-playdate) and copy an example project from the [Playdate SDK](https://play.date/dev/)
 
-1. To generate a XCode project capable of compiling the `.pdx`
+```bash
+cp -r $PLAYDATE_SDK_PATH/C_API/Examples/<example>/ .
+```
+
+To generate a XCode project for macOS:
 
 ```bash
 mkdir build
@@ -16,11 +18,7 @@ cd build
 cmake .. -G "Xcode"
 ```
 
-After this setup is complete.
-
-## Build
-
-The build the `.pdx` file run `xcodebuild` from the `build` open the simulator and load the file.
+After this setup is complete and `xcodebuild` will produce a `.pdx` file that can be loaded in the simulator or side loaded.
 
 Finally, to generate the ARM binary:
 
