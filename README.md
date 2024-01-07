@@ -10,6 +10,8 @@ Install Visual Studio Code plugin [playdate-debug](https://marketplace.visualstu
 cp -r $PLAYDATE_SDK_PATH/C_API/Examples/<example>/ .
 ```
 
+><small>You might also want to use the improved [playdate-types](https://github.com/balpha/playdate-types)</small>
+
 To generate a XCode project for macOS:
 
 ```bash
