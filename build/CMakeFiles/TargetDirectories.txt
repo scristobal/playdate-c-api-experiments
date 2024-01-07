@@ -1,0 +1,3 @@
+/Users/samu/repos/samu/playdate-devtest-c-api/build/CMakeFiles/3DLibrary.dir
+/Users/samu/repos/samu/playdate-devtest-c-api/build/CMakeFiles/ALL_BUILD.dir
+/Users/samu/repos/samu/playdate-devtest-c-api/build/CMakeFiles/ZERO_CHECK.dir

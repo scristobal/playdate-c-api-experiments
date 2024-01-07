@@ -1,0 +1,3 @@
+/Users/samu/repos/samu/playdate-devtest-c-api/build_target/CMakeFiles/3DLibrary_DEVICE.dir
+/Users/samu/repos/samu/playdate-devtest-c-api/build_target/CMakeFiles/edit_cache.dir
+/Users/samu/repos/samu/playdate-devtest-c-api/build_target/CMakeFiles/rebuild_cache.dir

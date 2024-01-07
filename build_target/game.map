@@ -1,0 +1,927 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+                              CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj (memset)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+                              CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj (qsort)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcmp.o)
+                              CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj (strcmp)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+                              CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj (cosf)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+                              CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj (sinf)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o) (__ieee754_rem_pio2f)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_cos.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o) (__kernel_cosf)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_sin.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o) (__kernel_sinf)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o) (fabsf)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_floor.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o) (floorf)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_scalbn.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o) (scalbnf)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .text.Scene3DNode_setUsesZBuffer
+                0x0000000000000000       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ .text._malloc_r
+                0x0000000000000000       0x20 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ .text._realloc_r
+                0x0000000000000000       0x24 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ .text._free_r  0x0000000000000000       0x24 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_cos.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_cos.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_cos.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_sin.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_sin.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_sin.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_floor.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_floor.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_floor.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_scalbn.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_scalbn.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_scalbn.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+LOAD CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+LOAD CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+LOAD CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+LOAD CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+LOAD CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+LOAD CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+LOAD CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+START GROUP
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+END GROUP
+
+.text           0x0000000000000000     0x7990
+ *(.text)
+ .text          0x0000000000000000      0x2dc /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcmp.o)
+                0x0000000000000008                strcmp
+ *(.text.*)
+ *fill*         0x00000000000002dc        0x4 
+ .text.eventHandler
+                0x00000000000002e0       0x28 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+                0x00000000000002e0                eventHandler
+ *fill*         0x0000000000000308        0x8 
+ .text._lib3d_sqrtf
+                0x0000000000000310       0x20 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .text.Vector3DMake
+                0x0000000000000330       0x3c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000036c        0x4 
+ .text.get3DObj
+                0x0000000000000370       0x44 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x00000000000003b4        0xc 
+ .text.getScene
+                0x00000000000003c0       0x1c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x00000000000003dc        0x4 
+ .text.getSceneNode
+                0x00000000000003e0       0x1c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x00000000000003fc        0x4 
+ .text.getShape
+                0x0000000000000400       0x1c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000041c        0x4 
+ .text.getPoint
+                0x0000000000000420       0x1c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000043c        0x4 
+ .text.getMatrix
+                0x0000000000000440       0x1c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000045c        0x4 
+ .text.scene_new
+                0x0000000000000460       0x40 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .text.scene_gc
+                0x00000000000004a0       0x2c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x00000000000004cc        0x4 
+ .text.scene_getRoot
+                0x00000000000004d0       0x38 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000508        0x8 
+ .text.scene_draw
+                0x0000000000000510       0x44 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000554        0xc 
+ .text.scene_drawNode
+                0x0000000000000560       0x4c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x00000000000005ac        0x4 
+ .text.scene_setLight
+                0x00000000000005b0       0x94 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000644        0xc 
+ .text.scene_setCenter
+                0x0000000000000650       0x4c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000069c        0x4 
+ .text.scene_setCameraOrigin
+                0x00000000000006a0       0xbc CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000075c        0x4 
+ .text.scene_setCameraTarget
+                0x0000000000000760       0xbc CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000081c        0x4 
+ .text.scene_setCameraScale
+                0x0000000000000820       0x90 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .text.scene_setCameraUp
+                0x00000000000008b0       0xbc CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000096c        0x4 
+ .text.node_gc  0x0000000000000970        0xc CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000097c        0x4 
+ .text.node_addShape
+                0x0000000000000980       0xec CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000a6c        0x4 
+ .text.node_makeChildNode
+                0x0000000000000a70       0x38 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000aa8        0x8 
+ .text.node_setTransform
+                0x0000000000000ab0       0x28 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000ad8        0x8 
+ .text.node_addTransform
+                0x0000000000000ae0       0x28 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000b08        0x8 
+ .text.node_translateBy
+                0x0000000000000b10       0x7c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000b8c        0x4 
+ .text.node_scaleBy
+                0x0000000000000b90      0x198 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000d28        0x8 
+ .text.node_setColorBias
+                0x0000000000000d30       0x38 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000d68        0x8 
+ .text.node_setFilled
+                0x0000000000000d70       0x64 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000dd4        0xc 
+ .text.node_setWireframeMode
+                0x0000000000000de0       0x84 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000e64        0xc 
+ .text.node_setWireframeColor
+                0x0000000000000e70       0x64 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000ed4        0xc 
+ .text.node_setVisible
+                0x0000000000000ee0       0x34 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000f14        0xc 
+ .text.shape_new
+                0x0000000000000f20       0x44 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000000f64        0xc 
+ .text.shape_gc
+                0x0000000000000f70       0x20 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .text.shape_addFace
+                0x0000000000000f90       0xa8 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000001038        0x8 
+ .text.shape_setClosed
+                0x0000000000001040       0x30 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .text.shape_setOrderTableSize
+                0x0000000000001070       0x30 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .text.point_new
+                0x00000000000010a0       0x7c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000111c        0x4 
+ .text.point_gc
+                0x0000000000001120       0x28 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000001148        0x8 
+ .text.point_index
+                0x0000000000001150       0xac CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x00000000000011fc        0x4 
+ .text.point_newindex
+                0x0000000000001200       0xa8 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x00000000000012a8        0x8 
+ .text.point_mul
+                0x00000000000012b0       0x98 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000001348        0x8 
+ .text.matrix_gc
+                0x0000000000001350       0x28 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000001378        0x8 
+ .text.matrix_mul
+                0x0000000000001380       0x98 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000001418        0x8 
+ .text.matrix_new
+                0x0000000000001420      0x178 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000001598        0x8 
+ .text.matrix_newRotation
+                0x00000000000015a0      0x2e8 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x0000000000001888        0x8 
+ .text.matrix_addTranslation
+                0x0000000000001890       0x7c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ *fill*         0x000000000000190c        0x4 
+ .text.register3D
+                0x0000000000001910      0x144 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+                0x0000000000001910                register3D
+ *fill*         0x0000000000001a54        0xc 
+ .text._lib3d_sqrtf
+                0x0000000000001a60       0x20 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .text.Point3DMake
+                0x0000000000001a80       0x3c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ *fill*         0x0000000000001abc        0x4 
+ .text.Vector3DMake
+                0x0000000000001ac0       0x3c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ *fill*         0x0000000000001afc        0x4 
+ .text.Vector3DCross
+                0x0000000000001b00       0xb4 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ *fill*         0x0000000000001bb4        0xc 
+ .text.Matrix3DMake
+                0x0000000000001bc0       0x9c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                0x0000000000001bc0                Matrix3DMake
+ *fill*         0x0000000000001c5c        0x4 
+ .text.Matrix3DMakeTranslate
+                0x0000000000001c60       0x84 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                0x0000000000001c60                Matrix3DMakeTranslate
+ *fill*         0x0000000000001ce4        0xc 
+ .text.Matrix3D_multiply
+                0x0000000000001cf0      0x354 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                0x0000000000001cf0                Matrix3D_multiply
+ *fill*         0x0000000000002044        0xc 
+ .text.Matrix3D_apply
+                0x0000000000002050      0x17c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                0x0000000000002050                Matrix3D_apply
+ *fill*         0x00000000000021cc        0x4 
+ .text.Vector3D_normalize
+                0x00000000000021d0       0xc4 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                0x00000000000021d0                Vector3D_normalize
+ *fill*         0x0000000000002294        0xc 
+ .text.pnormal  0x00000000000022a0      0x160 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                0x00000000000022a0                pnormal
+ .text.Matrix3D_getDeterminant
+                0x0000000000002400       0xbc CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                0x0000000000002400                Matrix3D_getDeterminant
+ *fill*         0x00000000000024bc        0x4 
+ .text.mini3d_setRealloc
+                0x00000000000024c0       0x14 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+                0x00000000000024c0                mini3d_setRealloc
+ *fill*         0x00000000000024d4        0xc 
+ .text.resetZBuffer
+                0x00000000000024e0       0x48 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                0x00000000000024e0                resetZBuffer
+ *fill*         0x0000000000002528        0x8 
+ .text.swap     0x0000000000002530       0x14 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ *fill*         0x0000000000002544        0xc 
+ .text._drawMaskPattern
+                0x0000000000002550       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ *fill*         0x0000000000002584        0xc 
+ .text.drawFragment
+                0x0000000000002590      0x164 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ *fill*         0x00000000000026f4        0xc 
+ .text.drawFragment_zbuf
+                0x0000000000002700      0x104 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ *fill*         0x0000000000002804        0xc 
+ .text.slope    0x0000000000002810       0x7c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ *fill*         0x000000000000288c        0x4 
+ .text.drawLine_zbuf
+                0x0000000000002890      0x420 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                0x0000000000002890                drawLine_zbuf
+ .text.drawLine
+                0x0000000000002cb0      0x2e8 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                0x0000000000002cb0                drawLine
+ *fill*         0x0000000000002f98        0x8 
+ .text.fillRange
+                0x0000000000002fa0       0xfc CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ *fill*         0x000000000000309c        0x4 
+ .text.fillRange_zbuf
+                0x00000000000030a0      0x154 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ *fill*         0x00000000000031f4        0xc 
+ .text.sortTri  0x0000000000003200      0x108 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ *fill*         0x0000000000003308        0x8 
+ .text.fillTriangle
+                0x0000000000003310      0x260 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                0x0000000000003310                fillTriangle
+ .text.fillTriangle_zbuf
+                0x0000000000003570      0x494 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                0x0000000000003570                fillTriangle_zbuf
+ *fill*         0x0000000000003a04        0xc 
+ .text.fillQuad
+                0x0000000000003a10       0x54 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                0x0000000000003a10                fillQuad
+ *fill*         0x0000000000003a64        0xc 
+ .text.fillQuad_zbuf
+                0x0000000000003a70       0x54 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                0x0000000000003a70                fillQuad_zbuf
+ *fill*         0x0000000000003ac4        0xc 
+ .text._lib3d_sqrtf
+                0x0000000000003ad0       0x20 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .text.Vector3DMake
+                0x0000000000003af0       0x3c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x0000000000003b2c        0x4 
+ .text.Vector3DDot
+                0x0000000000003b30       0x68 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x0000000000003b98        0x8 
+ .text.Vector3D_lengthSquared
+                0x0000000000003ba0       0x44 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x0000000000003be4        0xc 
+ .text.Scene3DNode_init
+                0x0000000000003bf0       0x7c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003bf0                Scene3DNode_init
+ *fill*         0x0000000000003c6c        0x4 
+ .text.Scene3DNode_deinit
+                0x0000000000003c70       0xcc CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003c70                Scene3DNode_deinit
+ *fill*         0x0000000000003d3c        0x4 
+ .text.Scene3DNode_setTransform
+                0x0000000000003d40       0x48 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003d40                Scene3DNode_setTransform
+ *fill*         0x0000000000003d88        0x8 
+ .text.Scene3DNode_addTransform
+                0x0000000000003d90       0x54 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003d90                Scene3DNode_addTransform
+ *fill*         0x0000000000003de4        0xc 
+ .text.Scene3DNode_setColorBias
+                0x0000000000003df0       0x24 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003df0                Scene3DNode_setColorBias
+ *fill*         0x0000000000003e14        0xc 
+ .text.Scene3DNode_setRenderStyle
+                0x0000000000003e20       0x28 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003e20                Scene3DNode_setRenderStyle
+ *fill*         0x0000000000003e48        0x8 
+ .text.Scene3DNode_getRenderStyle
+                0x0000000000003e50       0x2c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003e50                Scene3DNode_getRenderStyle
+ *fill*         0x0000000000003e7c        0x4 
+ .text.Scene3DNode_setVisible
+                0x0000000000003e80       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003e80                Scene3DNode_setVisible
+ *fill*         0x0000000000003eb4        0xc 
+ .text.Scene3DNode_addShapeWithTransform
+                0x0000000000003ec0      0x240 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000003ec0                Scene3DNode_addShapeWithTransform
+ .text.Scene3DNode_addShapeWithOffset
+                0x0000000000004100       0x68 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000004100                Scene3DNode_addShapeWithOffset
+ *fill*         0x0000000000004168        0x8 
+ .text.Scene3DNode_addShape
+                0x0000000000004170       0x38 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000004170                Scene3DNode_addShape
+ *fill*         0x00000000000041a8        0x8 
+ .text.Scene3DNode_newChild
+                0x00000000000041b0       0x5c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x00000000000041b0                Scene3DNode_newChild
+ *fill*         0x000000000000420c        0x4 
+ .text.Scene3D_updateShapeInstance
+                0x0000000000004210      0x47c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x000000000000468c        0x4 
+ .text.Scene3D_updateNode
+                0x0000000000004690      0x164 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000004690                Scene3D_updateNode
+ *fill*         0x00000000000047f4        0xc 
+ .text.Scene3D_init
+                0x0000000000004800       0xf0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000004800                Scene3D_init
+ .text.Scene3D_deinit
+                0x00000000000048f0       0x38 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x00000000000048f0                Scene3D_deinit
+ *fill*         0x0000000000004928        0x8 
+ .text.Scene3D_setGlobalLight
+                0x0000000000004930       0x30 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000004930                Scene3D_setGlobalLight
+ .text.Scene3D_setCenter
+                0x0000000000004960       0x20 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000004960                Scene3D_setCenter
+ .text.Scene3D_getRootNode
+                0x0000000000004980       0x10 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000004980                Scene3D_getRootNode
+ .text.getShapesAtNode
+                0x0000000000004990       0xcc CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x0000000000004a5c        0x4 
+ .text.Scene3D_setCamera
+                0x0000000000004a60      0x3c4 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000004a60                Scene3D_setCamera
+ *fill*         0x0000000000004e24        0xc 
+ .text.drawShapeFace
+                0x0000000000004e30      0x4a4 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x00000000000052d4        0xc 
+ .text.drawFilledShape
+                0x00000000000052e0       0x94 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x0000000000005374        0xc 
+ .text.drawWireframe
+                0x0000000000005380      0x3d8 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x0000000000005758        0x8 
+ .text.compareZ
+                0x0000000000005760       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ *fill*         0x0000000000005794        0xc 
+ .text.Scene3D_drawNode
+                0x00000000000057a0       0x9c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x00000000000057a0                Scene3D_drawNode
+ *fill*         0x000000000000583c        0x4 
+ .text.Scene3D_draw
+                0x0000000000005840       0x74 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000005840                Scene3D_draw
+ *fill*         0x00000000000058b4        0xc 
+ .text.Point3D_equals
+                0x00000000000058c0       0x74 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ *fill*         0x0000000000005934        0xc 
+ .text.Shape3D_init
+                0x0000000000005940       0x5c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                0x0000000000005940                Shape3D_init
+ *fill*         0x000000000000599c        0x4 
+ .text.Shape3D_retain
+                0x00000000000059a0       0x18 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                0x00000000000059a0                Shape3D_retain
+ *fill*         0x00000000000059b8        0x8 
+ .text.Shape3D_release
+                0x00000000000059c0       0x5c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                0x00000000000059c0                Shape3D_release
+ *fill*         0x0000000000005a1c        0x4 
+ .text.Shape3D_addPoint
+                0x0000000000005a20       0xc8 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                0x0000000000005a20                Shape3D_addPoint
+ *fill*         0x0000000000005ae8        0x8 
+ .text.Shape3D_addFace
+                0x0000000000005af0      0x264 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                0x0000000000005af0                Shape3D_addFace
+ *fill*         0x0000000000005d54        0xc 
+ .text.Shape3D_setClosed
+                0x0000000000005d60       0x24 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                0x0000000000005d60                Shape3D_setClosed
+ *fill*         0x0000000000005d84        0xc 
+ .text.Shape3D_setOrderTableSize
+                0x0000000000005d90       0x14 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                0x0000000000005d90                Shape3D_setOrderTableSize
+ *fill*         0x0000000000005da4        0xc 
+ .text.eventHandlerShim
+                0x0000000000005db0       0x3c CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+                0x0000000000005db0                eventHandlerShim
+ .text.memset   0x0000000000005dec       0xa0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+                0x0000000000005dec                memset
+ .text.qsort    0x0000000000005e8c      0x648 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+                0x0000000000005e8c                qsort
+ .text.cosf     0x00000000000064d4       0x90 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+                0x00000000000064d4                cosf
+ .text.sinf     0x0000000000006564       0x94 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+                0x0000000000006564                sinf
+ .text.__ieee754_rem_pio2f
+                0x00000000000065f8      0x294 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+                0x00000000000065f8                __ieee754_rem_pio2f
+ .text.__kernel_cosf
+                0x000000000000688c      0x104 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_cos.o)
+                0x000000000000688c                __kernel_cosf
+ .text.__kernel_rem_pio2f
+                0x0000000000006990      0x66c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+                0x0000000000006990                __kernel_rem_pio2f
+ .text.__kernel_sinf
+                0x0000000000006ffc       0x90 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_sin.o)
+                0x0000000000006ffc                __kernel_sinf
+ .text.fabsf    0x000000000000708c       0x10 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+                0x000000000000708c                fabsf
+ .text.floorf   0x000000000000709c       0x8c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_floor.o)
+                0x000000000000709c                floorf
+ .text.scalbnf  0x0000000000007128       0xe4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_scalbn.o)
+                0x0000000000007128                scalbnf
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x000000000000720c      0x25c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .rodata.lib3DScene
+                0x0000000000007468       0x60 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .rodata.lib3DNode
+                0x00000000000074c8       0x68 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .rodata.lib3DShape
+                0x0000000000007530       0x30 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .rodata.lib3DPoint
+                0x0000000000007560       0x30 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .rodata.lib3DMatrix
+                0x0000000000007590       0x30 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .rodata.npio2_hw
+                0x00000000000075c0       0x80 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.two_over_pi
+                0x0000000000007640      0x318 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.PIo2   0x0000000000007958       0x2c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+ .rodata.init_jk
+                0x0000000000007984        0xc /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+ *(.eh_frame*)
+
+.glue_7         0x0000000000007990        0x0
+ .glue_7        0x0000000000007990        0x0 linker stubs
+
+.glue_7t        0x0000000000007990        0x0
+ .glue_7t       0x0000000000007990        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000007990        0x0
+ .vfp11_veneer  0x0000000000007990        0x0 linker stubs
+
+.v4_bx          0x0000000000007990        0x0
+ .v4_bx         0x0000000000007990        0x0 linker stubs
+
+.iplt           0x0000000000007990        0x0
+ .iplt          0x0000000000007990        0x0 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+
+.rel.dyn        0x0000000000007990        0x0
+ .rel.iplt      0x0000000000007990        0x0 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+
+.data           0x0000000000007990      0x158
+                0x0000000000007990                __etext = .
+                0x0000000000007990                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.cameraOrigin
+                0x0000000000007990        0xc CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .data.cameraScale
+                0x000000000000799c        0x4 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .data.cameraUp
+                0x00000000000079a0        0xc CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .data.identityMatrix
+                0x00000000000079ac       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                0x00000000000079ac                identityMatrix
+ .data.patterns
+                0x00000000000079e0      0x108 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                0x0000000000007ae8                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x0000000000007ae8                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                0x0000000000007ae8                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000000007ae8                . = ALIGN (0x4)
+                0x0000000000007ae8                __data_end__ = .
+
+.igot.plt       0x0000000000007ae8        0x0
+ .igot.plt      0x0000000000007ae8        0x0 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+
+.bss            0x0000000000007ae8    0x2ee1c
+                0x0000000000007ae8                . = ALIGN (0x4)
+                0x0000000000007ae8                __bss_start__ = .
+ *(.bss*)
+ .bss.pd        0x0000000000007ae8        0x4 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .bss.cameraLookat
+                0x0000000000007aec        0xc CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .bss.m3d_realloc
+                0x0000000000007af8        0x4 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+                0x0000000000007af8                m3d_realloc
+ .bss.zbuf      0x0000000000007afc    0x2ee00 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .bss.zscale    0x00000000000368fc        0x4 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .bss.pdrealloc
+                0x0000000000036900        0x4 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ *(COMMON)
+ *(COM)
+                0x0000000000036904                . = ALIGN (0x4)
+                0x0000000000036904                __bss_end__ = .
+
+/DISCARD/
+ *(.ARM.exidx)
+OUTPUT(3DLibrary_DEVICE.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000    0x18e9f
+ .debug_info    0x0000000000000000     0x625d CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .debug_info    0x000000000000625d     0x755c CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .debug_info    0x000000000000d7b9      0xee0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .debug_info    0x000000000000e699       0xb2 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .debug_info    0x000000000000e74b     0x182a CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .debug_info    0x000000000000ff75     0x1d84 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .debug_info    0x0000000000011cf9      0xe73 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .debug_info    0x0000000000012b6c     0x6333 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+
+.debug_abbrev   0x0000000000000000     0x15ff
+ .debug_abbrev  0x0000000000000000      0x288 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .debug_abbrev  0x0000000000000288      0x363 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .debug_abbrev  0x00000000000005eb      0x298 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .debug_abbrev  0x0000000000000883       0xaa CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .debug_abbrev  0x000000000000092d      0x362 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .debug_abbrev  0x0000000000000c8f      0x3fa CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .debug_abbrev  0x0000000000001089      0x2a5 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .debug_abbrev  0x000000000000132e      0x2d1 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+
+.debug_loc      0x0000000000000000     0x1963
+ .debug_loc     0x0000000000000000       0x38 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .debug_loc     0x0000000000000038      0xa29 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .debug_loc     0x0000000000000a61      0x262 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .debug_loc     0x0000000000000cc3       0x2c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .debug_loc     0x0000000000000cef      0x31d CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .debug_loc     0x000000000000100c      0x6f3 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .debug_loc     0x00000000000016ff      0x184 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .debug_loc     0x0000000000001883       0xe0 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+
+.debug_aranges  0x0000000000000000      0x478
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .debug_aranges
+                0x0000000000000020      0x190 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .debug_aranges
+                0x00000000000001b0       0x70 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .debug_aranges
+                0x0000000000000220       0x20 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .debug_aranges
+                0x0000000000000240       0x90 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .debug_aranges
+                0x00000000000002d0      0x118 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .debug_aranges
+                0x00000000000003e8       0x58 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .debug_aranges
+                0x0000000000000440       0x38 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+
+.debug_ranges   0x0000000000000000      0x488
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .debug_ranges  0x0000000000000010      0x180 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .debug_ranges  0x0000000000000190       0x60 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .debug_ranges  0x00000000000001f0       0x10 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .debug_ranges  0x0000000000000200       0xe0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .debug_ranges  0x00000000000002e0      0x138 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .debug_ranges  0x0000000000000418       0x48 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .debug_ranges  0x0000000000000460       0x28 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+
+.debug_line     0x0000000000000000     0x3db7
+ .debug_line    0x0000000000000000      0x326 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .debug_line    0x0000000000000326      0xe3e CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .debug_line    0x0000000000001164      0x645 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .debug_line    0x00000000000017a9       0xe7 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .debug_line    0x0000000000001890      0xccb CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .debug_line    0x000000000000255b      0xff6 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .debug_line    0x0000000000003551      0x4e6 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .debug_line    0x0000000000003a37      0x380 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+
+.debug_str      0x0000000000000000     0x37f6
+ .debug_str     0x0000000000000000     0x2bde CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+                                       0x2e3d (size before relaxing)
+ .debug_str     0x0000000000002bde      0x559 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+                                       0x32ec (size before relaxing)
+ .debug_str     0x0000000000003137       0xcf CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                                        0x758 (size before relaxing)
+ .debug_str     0x0000000000003206       0x50 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+                                        0x1e3 (size before relaxing)
+ .debug_str     0x0000000000003256      0x14c CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                        0x854 (size before relaxing)
+ .debug_str     0x00000000000033a2      0x30d CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                        0xc07 (size before relaxing)
+ .debug_str     0x00000000000036af       0xcb CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                                        0x7c6 (size before relaxing)
+ .debug_str     0x000000000000377a       0x7c CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+                                       0x2e77 (size before relaxing)
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+                                         0x7a (size before relaxing)
+ .comment       0x0000000000000079       0x7a CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+
+.ARM.attributes
+                0x0000000000000000       0x32
+ .ARM.attributes
+                0x0000000000000000       0x34 CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .ARM.attributes
+                0x0000000000000034       0x34 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .ARM.attributes
+                0x0000000000000068       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .ARM.attributes
+                0x000000000000009c       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .ARM.attributes
+                0x00000000000000d0       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .ARM.attributes
+                0x0000000000000104       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .ARM.attributes
+                0x0000000000000138       0x34 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .ARM.attributes
+                0x000000000000016c       0x34 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ .ARM.attributes
+                0x00000000000001a0       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000001d4       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .ARM.attributes
+                0x0000000000000208       0x1c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000224       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+ .ARM.attributes
+                0x0000000000000258       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+ .ARM.attributes
+                0x000000000000028c       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+ .ARM.attributes
+                0x00000000000002c0       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_cos.o)
+ .ARM.attributes
+                0x00000000000002f4       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+ .ARM.attributes
+                0x0000000000000328       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_sin.o)
+ .ARM.attributes
+                0x000000000000035c       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .ARM.attributes
+                0x0000000000000390       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_floor.o)
+ .ARM.attributes
+                0x00000000000003c4       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_scalbn.o)
+
+.debug_frame    0x0000000000000000     0x109c
+ .debug_frame   0x0000000000000000       0x2c CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+ .debug_frame   0x000000000000002c      0x560 CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+ .debug_frame   0x000000000000058c      0x148 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+ .debug_frame   0x00000000000006d4       0x28 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+ .debug_frame   0x00000000000006fc      0x1bc CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+ .debug_frame   0x00000000000008b8      0x3dc CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+ .debug_frame   0x0000000000000c94       0xe0 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+ .debug_frame   0x0000000000000d74       0x80 CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+ .debug_frame   0x0000000000000df4       0x38 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000e2c       0x44 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .debug_frame   0x0000000000000e70       0x68 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000000ed8       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+ .debug_frame   0x0000000000000f0c       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+ .debug_frame   0x0000000000000f40       0x44 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+ .debug_frame   0x0000000000000f84       0x20 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_cos.o)
+ .debug_frame   0x0000000000000fa4       0x5c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+ .debug_frame   0x0000000000001000       0x20 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_sin.o)
+ .debug_frame   0x0000000000001020       0x20 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x0000000000001040       0x20 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_floor.o)
+ .debug_frame   0x0000000000001060       0x3c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_scalbn.o)
+
+Cross Reference Table
+
+Symbol                                            File
+Matrix3DMake                                      CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+Matrix3DMakeTranslate                             CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+Matrix3D_apply                                    CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Matrix3D_getDeterminant                           CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Matrix3D_multiply                                 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_addShape                              CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_addShapeWithOffset                    CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_addShapeWithTransform                 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_addTransform                          CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_deinit                                CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+Scene3DNode_getRenderStyle                        CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_init                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+Scene3DNode_newChild                              CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_setColorBias                          CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_setRenderStyle                        CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_setTransform                          CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3DNode_setUsesZBuffer                        CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+Scene3DNode_setVisible                            CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_deinit                                    CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_draw                                      CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_drawNode                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_getRootNode                               CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_init                                      CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_setCamera                                 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_setCenter                                 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_setGlobalLight                            CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Scene3D_updateNode                                CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+Shape3D_addFace                                   CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Shape3D_addPoint                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+Shape3D_init                                      CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Shape3D_release                                   CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Shape3D_retain                                    CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Shape3D_setClosed                                 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Shape3D_setOrderTableSize                         CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+Vector3D_normalize                                CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+__ieee754_rem_pio2f                               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+__kernel_cosf                                     /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_cos.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+__kernel_rem_pio2f                                /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+__kernel_sinf                                     /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_sin.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+_free_r                                           CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+_malloc_r                                         CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+_realloc_r                                        CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+cosf                                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_cos.o)
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+drawLine                                          CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+drawLine_zbuf                                     CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+eventHandler                                      CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+eventHandlerShim                                  CMakeFiles/3DLibrary_DEVICE.dir/Users/samu/Developer/PlaydateSDK/C_API/buildsupport/setup.c.obj
+fabsf                                             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_rem_pio2.o)
+fillQuad                                          CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+fillQuad_zbuf                                     CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+fillTriangle                                      CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+fillTriangle_zbuf                                 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+floorf                                            /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_floor.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+identityMatrix                                    CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+m3d_realloc                                       CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/shape.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+memset                                            /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+mini3d_setRealloc                                 CMakeFiles/3DLibrary_DEVICE.dir/mini3d/mini3d.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+pnormal                                           CMakeFiles/3DLibrary_DEVICE.dir/mini3d/3dmath.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+qsort                                             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+register3D                                        CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/main.c.obj
+resetZBuffer                                      CMakeFiles/3DLibrary_DEVICE.dir/mini3d/render.c.obj
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/mini3d/scene.c.obj
+scalbnf                                           /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_scalbn.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-kf_rem_pio2.o)
+sinf                                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_sin.o)
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj
+strcmp                                            /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcmp.o)
+                                                  CMakeFiles/3DLibrary_DEVICE.dir/luaglue.c.obj

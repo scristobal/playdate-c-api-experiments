@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target '3DLibrary' in project '3DLibrary'
+➜ Explicit dependency on target 'ZERO_CHECK' in project '3DLibrary'
+Target 'ZERO_CHECK' in project '3DLibrary' (no dependencies)

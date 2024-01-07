@@ -1,0 +1,648 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		44B9813C5E524AEDB776203F /* ALL_BUILD */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 77D9ED581297433FA3E36B91 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildPhases = (
+				987AD0EFBA6D58575FA00114 /* Generate CMakeFiles/ALL_BUILD */,
+			);
+			dependencies = (
+				60709FAA8F5C489C9294076D /* PBXTargetDependency */,
+				025DBF8922914ADCBD1F5861 /* PBXTargetDependency */,
+			);
+			name = ALL_BUILD;
+			productName = ALL_BUILD;
+		};
+		9BC9D8DDCB4F4EC090962D34 /* ZERO_CHECK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 47024131E46149FC965BA1F1 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildPhases = (
+				D2985DBE70B7F623CA3CB019 /* Generate CMakeFiles/ZERO_CHECK */,
+			);
+			dependencies = (
+			);
+			name = ZERO_CHECK;
+			productName = ZERO_CHECK;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		0AE2CE44C0FC411A87B9F322 /* /Users/samu/repos/samu/playdate-devtest-c-api/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 04E845E9C8C443CA867D2CAA /* /Users/samu/repos/samu/playdate-devtest-c-api/CMakeLists.txt */; };
+		5BAA96039E5C4C348FC32DC4 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.h */ = {isa = PBXBuildFile; fileRef = F0EC6A7C5A1745DAAC1C0862 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.h */; };
+		6614FCD75CDD470D8F091081 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.c */ = {isa = PBXBuildFile; fileRef = 8C790C2C123E4C77B9A59C5C /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.c */; };
+		66D272D7803A4FE2B8EB042F /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.h */ = {isa = PBXBuildFile; fileRef = 9ED903DD8E8D4E9C9AD2FC96 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.h */; };
+		69764D6458384E57B70053D0 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmFunc.h */ = {isa = PBXBuildFile; fileRef = 7DC69335EC6B4D6DAFE364E7 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmFunc.h */; };
+		7585C86A6787420C99F4A271 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/ztest.lua */ = {isa = PBXBuildFile; fileRef = EE3A21AA7B0C49B7BD4E1CB2 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/ztest.lua */; };
+		7FC5E5D2A16C4BFFBEA4E29C /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmSimd.h */ = {isa = PBXBuildFile; fileRef = D05F52C98A704F25AC5CAB6A /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmSimd.h */; };
+		7FFF725181334454B7A524A5 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/knot.lua */ = {isa = PBXBuildFile; fileRef = 6CC69E7794354402BE38BE70 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/knot.lua */; };
+		862EF6EE12364932AF1301D2 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.c */ = {isa = PBXBuildFile; fileRef = 2271BC40CF224EF3AD1FE1AF /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.c */; };
+		87E99AA8288B49D689B804B0 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cm7.h */ = {isa = PBXBuildFile; fileRef = F48A1EC87E2949278CB1E284 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cm7.h */; };
+		94A07D7E6F2E4F479BCFB59A /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.h */ = {isa = PBXBuildFile; fileRef = AF845449EF0E4C77B84E6BCE /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.h */; };
+		9509A52DA6C24B0DB31B4116 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/knot-ordered.lua */ = {isa = PBXBuildFile; fileRef = 822FA2DBAE0B4E83A127376F /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/knot-ordered.lua */; };
+		9AD1A26EA7274EE5B7317895 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.h */ = {isa = PBXBuildFile; fileRef = 6727D31A444F46CBA2296FD9 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.h */; };
+		BF0CF07EC83B4402A90DDDDC /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/icosahedra.lua */ = {isa = PBXBuildFile; fileRef = B6FEF6FFACE445B7A51E4E3A /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/icosahedra.lua */; };
+		C36A9C33715C4FA08A55B786 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/main.lua */ = {isa = PBXBuildFile; fileRef = 87D2A434268743919DB13D36 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/main.lua */; };
+		CC9E29007A8E48C585968307 /* /Users/samu/repos/samu/playdate-devtest-c-api/main.c */ = {isa = PBXBuildFile; fileRef = 0F99834165F140C1A4305A0A /* /Users/samu/repos/samu/playdate-devtest-c-api/main.c */; };
+		D207EC3CD1AE4B6F94E0D193 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmInstr.h */ = {isa = PBXBuildFile; fileRef = 8B42EAE6942E444C9DBE8F50 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmInstr.h */; };
+		D4E1A0AD04024EA1BB823829 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.c */ = {isa = PBXBuildFile; fileRef = 17E01AC08B794E779562BBB0 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.c */; };
+		DD50B2A364CC4157908135FC /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.c */ = {isa = PBXBuildFile; fileRef = 801609456E7749718D381559 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.c */; };
+		E07DBE576DE44B7EB5903103 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.c */ = {isa = PBXBuildFile; fileRef = 93416F8DBCBD4FC0A7B97965 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.c */; };
+		E64CAA7AB9914CC1951DA030 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.h */ = {isa = PBXBuildFile; fileRef = 110038177135478F851E2FE8 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.h */; };
+		ED520E6186EF4541A1E451E2 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.h */ = {isa = PBXBuildFile; fileRef = F56BA62BE1D5409F81F31EC5 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.h */; };
+		FD1ECB39F1C34B5997D1C9B2 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.c */ = {isa = PBXBuildFile; fileRef = 1B57445AAD4A45F78CA7D577 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+		0ED32C042F564BE7A9A9D6DC /* Debug */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		FE03EB1A60B743D9A7675B30 /* Release */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Release;
+		};
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+		001ABD287CF34B68B378BE8A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 040A6A03F48142E5BC219DEB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9BC9D8DDCB4F4EC090962D34;
+			remoteInfo = ZERO_CHECK;
+		};
+		87F52293AD4F4BAE8E3C3CCB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 040A6A03F48142E5BC219DEB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A6665ABF44AA420DBDB5ECE6;
+			remoteInfo = 3DLibrary;
+		};
+		EBC50E017136413D8E881399 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 040A6A03F48142E5BC219DEB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9BC9D8DDCB4F4EC090962D34;
+			remoteInfo = ZERO_CHECK;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04E845E9C8C443CA867D2CAA /* /Users/samu/repos/samu/playdate-devtest-c-api/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		0F99834165F140C1A4305A0A /* /Users/samu/repos/samu/playdate-devtest-c-api/main.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = main.c; path = main.c; sourceTree = SOURCE_ROOT; };
+		110038177135478F851E2FE8 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = shape.h; path = mini3d/shape.h; sourceTree = SOURCE_ROOT; };
+		17E01AC08B794E779562BBB0 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = mini3d.c; path = mini3d/mini3d.c; sourceTree = SOURCE_ROOT; };
+		1B57445AAD4A45F78CA7D577 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = shape.c; path = mini3d/shape.c; sourceTree = SOURCE_ROOT; };
+		2271BC40CF224EF3AD1FE1AF /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = scene.c; path = mini3d/scene.c; sourceTree = SOURCE_ROOT; };
+		6727D31A444F46CBA2296FD9 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = 3dmath.h; path = mini3d/3dmath.h; sourceTree = SOURCE_ROOT; };
+		6CC69E7794354402BE38BE70 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/knot.lua */ = {isa = PBXFileReference; explicitFileType = sourcecode; fileEncoding = 4; name = knot.lua; path = Source/knot.lua; sourceTree = SOURCE_ROOT; };
+		7423FCFAAF034FBCB5F79815 /* /Users/samu/repos/samu/playdate-devtest-c-api/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		7DC69335EC6B4D6DAFE364E7 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmFunc.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = core_cmFunc.h; path = core_cmFunc.h; sourceTree = SOURCE_ROOT; };
+		801609456E7749718D381559 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = render.c; path = mini3d/render.c; sourceTree = SOURCE_ROOT; };
+		822FA2DBAE0B4E83A127376F /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/knot-ordered.lua */ = {isa = PBXFileReference; explicitFileType = sourcecode; fileEncoding = 4; name = "knot-ordered.lua"; path = "Source/knot-ordered.lua"; sourceTree = SOURCE_ROOT; };
+		87D2A434268743919DB13D36 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/main.lua */ = {isa = PBXFileReference; explicitFileType = sourcecode; fileEncoding = 4; name = main.lua; path = Source/main.lua; sourceTree = SOURCE_ROOT; };
+		8B42EAE6942E444C9DBE8F50 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmInstr.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = core_cmInstr.h; path = core_cmInstr.h; sourceTree = SOURCE_ROOT; };
+		8C790C2C123E4C77B9A59C5C /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = 3dmath.c; path = mini3d/3dmath.c; sourceTree = SOURCE_ROOT; };
+		93416F8DBCBD4FC0A7B97965 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = luaglue.c; path = luaglue.c; sourceTree = SOURCE_ROOT; };
+		9418E344838E412A868B9543 /* 3DLibrary */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; path = lib3DLibrary.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		9ED903DD8E8D4E9C9AD2FC96 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = scene.h; path = mini3d/scene.h; sourceTree = SOURCE_ROOT; };
+		AF845449EF0E4C77B84E6BCE /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = mini3d.h; path = mini3d/mini3d.h; sourceTree = SOURCE_ROOT; };
+		B6FEF6FFACE445B7A51E4E3A /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/icosahedra.lua */ = {isa = PBXFileReference; explicitFileType = sourcecode; fileEncoding = 4; name = icosahedra.lua; path = Source/icosahedra.lua; sourceTree = SOURCE_ROOT; };
+		D05F52C98A704F25AC5CAB6A /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmSimd.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = core_cmSimd.h; path = core_cmSimd.h; sourceTree = SOURCE_ROOT; };
+		EE3A21AA7B0C49B7BD4E1CB2 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/ztest.lua */ = {isa = PBXFileReference; explicitFileType = sourcecode; fileEncoding = 4; name = ztest.lua; path = Source/ztest.lua; sourceTree = SOURCE_ROOT; };
+		F0EC6A7C5A1745DAAC1C0862 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = render.h; path = mini3d/render.h; sourceTree = SOURCE_ROOT; };
+		F48A1EC87E2949278CB1E284 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cm7.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = core_cm7.h; path = core_cm7.h; sourceTree = SOURCE_ROOT; };
+		F56BA62BE1D5409F81F31EC5 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = luaglue.h; path = luaglue.h; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8560A3CA8C6644A196CBB9F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1A52B6D5920F4033B7796D5B /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				F48A1EC87E2949278CB1E284 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cm7.h */,
+				7DC69335EC6B4D6DAFE364E7 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmFunc.h */,
+				8B42EAE6942E444C9DBE8F50 /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmInstr.h */,
+				D05F52C98A704F25AC5CAB6A /* /Users/samu/repos/samu/playdate-devtest-c-api/core_cmSimd.h */,
+				F56BA62BE1D5409F81F31EC5 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.h */,
+				6727D31A444F46CBA2296FD9 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.h */,
+				AF845449EF0E4C77B84E6BCE /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.h */,
+				F0EC6A7C5A1745DAAC1C0862 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.h */,
+				9ED903DD8E8D4E9C9AD2FC96 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.h */,
+				110038177135478F851E2FE8 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		496CAFED6B254E868FCF8C88 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		74B56E8B3C4B4D5C96CEAF64 /* ALL_BUILD */ = {
+			isa = PBXGroup;
+			children = (
+				ED1DDBA4B0D34428B29AB933 /* CMake Rules */,
+				7423FCFAAF034FBCB5F79815 /* /Users/samu/repos/samu/playdate-devtest-c-api/CMakeLists.txt */,
+			);
+			name = ALL_BUILD;
+			sourceTree = "<group>";
+		};
+		7B0DB5770861407795057D79 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9418E344838E412A868B9543 /* 3DLibrary */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8DDBFCE7906E42E1950BAB94 = {
+			isa = PBXGroup;
+			children = (
+				C8AE7DA0E43C4E3E8D182200 /* 3DLibrary */,
+				74B56E8B3C4B4D5C96CEAF64 /* ALL_BUILD */,
+				7B0DB5770861407795057D79 /* Products */,
+				D7A18226099641548FE886DD /* Frameworks */,
+				496CAFED6B254E868FCF8C88 /* Resources */,
+			);
+			sourceTree = "<group>";
+		};
+		AAB9F3A2AFF54646BDB3033A /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				93416F8DBCBD4FC0A7B97965 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.c */,
+				0F99834165F140C1A4305A0A /* /Users/samu/repos/samu/playdate-devtest-c-api/main.c */,
+				8C790C2C123E4C77B9A59C5C /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.c */,
+				17E01AC08B794E779562BBB0 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.c */,
+				801609456E7749718D381559 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.c */,
+				2271BC40CF224EF3AD1FE1AF /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.c */,
+				1B57445AAD4A45F78CA7D577 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.c */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		C8AE7DA0E43C4E3E8D182200 /* 3DLibrary */ = {
+			isa = PBXGroup;
+			children = (
+				AAB9F3A2AFF54646BDB3033A /* Source Files */,
+				1A52B6D5920F4033B7796D5B /* Header Files */,
+				04E845E9C8C443CA867D2CAA /* /Users/samu/repos/samu/playdate-devtest-c-api/CMakeLists.txt */,
+				B6FEF6FFACE445B7A51E4E3A /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/icosahedra.lua */,
+				822FA2DBAE0B4E83A127376F /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/knot-ordered.lua */,
+				6CC69E7794354402BE38BE70 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/knot.lua */,
+				87D2A434268743919DB13D36 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/main.lua */,
+				EE3A21AA7B0C49B7BD4E1CB2 /* /Users/samu/repos/samu/playdate-devtest-c-api/Source/ztest.lua */,
+			);
+			name = 3DLibrary;
+			sourceTree = "<group>";
+		};
+		D7A18226099641548FE886DD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ED1DDBA4B0D34428B29AB933 /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A6665ABF44AA420DBDB5ECE6 /* 3DLibrary */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F7E27847E29240A0A02B754F /* Build configuration list for PBXNativeTarget "3DLibrary" */;
+			buildPhases = (
+				4B304794AE984BDE833EE2FB /* Sources */,
+				8560A3CA8C6644A196CBB9F6 /* Frameworks */,
+				6390244FD2D03C354C88C94B /* CMake PostBuild Rules */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D82460C219FD431785C1B00D /* PBXTargetDependency */,
+			);
+			name = 3DLibrary;
+			productName = 3DLibrary;
+			productReference = 9418E344838E412A868B9543 /* 3DLibrary */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		040A6A03F48142E5BC219DEB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1510;
+			};
+			buildConfigurationList = 4E661E8B245142E493D073BB /* Build configuration list for PBXProject "3DLibrary" */;
+			buildSettings = {
+			};
+			buildStyles = (
+				0ED32C042F564BE7A9A9D6DC /* Debug */,
+				FE03EB1A60B743D9A7675B30 /* Release */,
+			);
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 8DDBFCE7906E42E1950BAB94;
+			projectDirPath = "/Users/samu/repos/samu/playdate-devtest-c-api";
+			projectRoot = "";
+			targets = (
+				44B9813C5E524AEDB776203F /* ALL_BUILD */,
+				A6665ABF44AA420DBDB5ECE6 /* 3DLibrary */,
+				9BC9D8DDCB4F4EC090962D34 /* ZERO_CHECK */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3C0110FC8322DE7E50886E21 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		6390244FD2D03C354C88C94B /* CMake PostBuild Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake PostBuild Rules";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e
+if test \"$CONFIGURATION\" = \"Debug\"; then :
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  /Applications/CMake.app/Contents/bin/cmake -E copy /Users/samu/repos/samu/playdate-devtest-c-api/build/Debug/lib3DLibrary.dylib /Users/samu/repos/samu/playdate-devtest-c-api/Source/pdex.dylib
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  /Users/samu/Developer/PlaydateSDK/bin/pdc -sdkpath /Users/samu/Developer/PlaydateSDK /Users/samu/repos/samu/playdate-devtest-c-api/Source /Users/samu/repos/samu/playdate-devtest-c-api/3DLibrary.pdx
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  /Applications/CMake.app/Contents/bin/cmake -E cmake_symlink_library /Users/samu/repos/samu/playdate-devtest-c-api/build/Debug/lib3DLibrary.dylib /Users/samu/repos/samu/playdate-devtest-c-api/build/Debug/lib3DLibrary.dylib /Users/samu/repos/samu/playdate-devtest-c-api/build/Debug/lib3DLibrary.dylib
+fi
+if test \"$CONFIGURATION\" = \"Release\"; then :
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  /Applications/CMake.app/Contents/bin/cmake -E copy /Users/samu/repos/samu/playdate-devtest-c-api/build/Release/lib3DLibrary.dylib /Users/samu/repos/samu/playdate-devtest-c-api/Source/pdex.dylib
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  /Users/samu/Developer/PlaydateSDK/bin/pdc -sdkpath /Users/samu/Developer/PlaydateSDK /Users/samu/repos/samu/playdate-devtest-c-api/Source /Users/samu/repos/samu/playdate-devtest-c-api/3DLibrary.pdx
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  /Applications/CMake.app/Contents/bin/cmake -E cmake_symlink_library /Users/samu/repos/samu/playdate-devtest-c-api/build/Release/lib3DLibrary.dylib /Users/samu/repos/samu/playdate-devtest-c-api/build/Release/lib3DLibrary.dylib /Users/samu/repos/samu/playdate-devtest-c-api/build/Release/lib3DLibrary.dylib
+fi
+";
+			showEnvVarsInLog = 0;
+		};
+		987AD0EFBA6D58575FA00114 /* Generate CMakeFiles/ALL_BUILD */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Generate CMakeFiles/ALL_BUILD";
+			outputPaths = (
+"/Users/samu/repos/samu/playdate-devtest-c-api/build/CMakeFiles/ALL_BUILD"			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e
+if test \"$CONFIGURATION\" = \"Debug\"; then :
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  echo Build\\ all\\ projects
+fi
+if test \"$CONFIGURATION\" = \"Release\"; then :
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  echo Build\\ all\\ projects
+fi
+";
+			showEnvVarsInLog = 0;
+		};
+		9B50530E35CC49C82C2FACCF = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		D2985DBE70B7F623CA3CB019 /* Generate CMakeFiles/ZERO_CHECK */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Generate CMakeFiles/ZERO_CHECK";
+			outputPaths = (
+"/Users/samu/repos/samu/playdate-devtest-c-api/build/CMakeFiles/ZERO_CHECK"			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e
+if test \"$CONFIGURATION\" = \"Debug\"; then :
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  make -f /Users/samu/repos/samu/playdate-devtest-c-api/build/CMakeScripts/ReRunCMake.make
+fi
+if test \"$CONFIGURATION\" = \"Release\"; then :
+  cd /Users/samu/repos/samu/playdate-devtest-c-api/build
+  make -f /Users/samu/repos/samu/playdate-devtest-c-api/build/CMakeScripts/ReRunCMake.make
+fi
+";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4B304794AE984BDE833EE2FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E07DBE576DE44B7EB5903103 /* /Users/samu/repos/samu/playdate-devtest-c-api/luaglue.c */,
+				CC9E29007A8E48C585968307 /* /Users/samu/repos/samu/playdate-devtest-c-api/main.c */,
+				6614FCD75CDD470D8F091081 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/3dmath.c */,
+				D4E1A0AD04024EA1BB823829 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/mini3d.c */,
+				DD50B2A364CC4157908135FC /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/render.c */,
+				862EF6EE12364932AF1301D2 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/scene.c */,
+				FD1ECB39F1C34B5997D1C9B2 /* /Users/samu/repos/samu/playdate-devtest-c-api/mini3d/shape.c */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		025DBF8922914ADCBD1F5861 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9BC9D8DDCB4F4EC090962D34 /* ZERO_CHECK */;
+			targetProxy = EBC50E017136413D8E881399 /* PBXContainerItemProxy */;
+		};
+		60709FAA8F5C489C9294076D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A6665ABF44AA420DBDB5ECE6 /* 3DLibrary */;
+			targetProxy = 87F52293AD4F4BAE8E3C3CCB /* PBXContainerItemProxy */;
+		};
+		D82460C219FD431785C1B00D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9BC9D8DDCB4F4EC090962D34 /* ZERO_CHECK */;
+			targetProxy = 001ABD287CF34B68B378BE8A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1C801F7AD0CD4DDD8F43D552 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		2D03577E2B4B4647B7FC78D2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = arm64;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk;
+				SYMROOT = "/Users/samu/repos/samu/playdate-devtest-c-api/build/build";
+			};
+			name = Debug;
+		};
+		39EEF86D2F454823962458A5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/samu/repos/samu/playdate-devtest-c-api/build/Debug";
+				DYLIB_COMPATIBILITY_VERSION = "";
+				DYLIB_CURRENT_VERSION = "";
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .dylib;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",_3DLibrary_EXPORTS,"'TARGET_SIMULATOR=1'","'TARGET_EXTENSION=1'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = ("/Users/samu/repos/samu/playdate-devtest-c-api/mini3d",/Users/samu/Developer/PlaydateSDK/C_API,"$(inherited)");
+				INSTALL_PATH = "@rpath";
+				LIBRARY_STYLE = DYNAMIC;
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_CFLAGS = ("   '-std=gnu11' -fPIC -Wall -Wstrict-prototypes -Wno-unknown-pragmas -Wdouble-promotion           ","$(inherited)");
+				OTHER_LDFLAGS = (" -dynamiclib -Wl,-headerpad_max_install_names","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = 3DLibrary;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/samu/repos/samu/playdate-devtest-c-api/build/build/3DLibrary.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		5069D1A589A94B97A99462EB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		5AE5D3BD1CA04808889D08D9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		678BC8BD6F4B4AFEAC9230B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/samu/repos/samu/playdate-devtest-c-api/build/Release";
+				DYLIB_COMPATIBILITY_VERSION = "";
+				DYLIB_CURRENT_VERSION = "";
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .dylib;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",_3DLibrary_EXPORTS,"'TARGET_SIMULATOR=1'","'TARGET_EXTENSION=1'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = ("/Users/samu/repos/samu/playdate-devtest-c-api/mini3d",/Users/samu/Developer/PlaydateSDK/C_API,"$(inherited)");
+				INSTALL_PATH = "@rpath";
+				LIBRARY_STYLE = DYNAMIC;
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_CFLAGS = ("    -DNDEBUG '-std=gnu11' -fPIC -Wall -Wstrict-prototypes -Wno-unknown-pragmas -Wdouble-promotion ","$(inherited)");
+				OTHER_LDFLAGS = (" -dynamiclib -Wl,-headerpad_max_install_names","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = 3DLibrary;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/samu/repos/samu/playdate-devtest-c-api/build/build/3DLibrary.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		E371076587714922A511C465 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		FE7C7A9031424228BE17B24A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = arm64;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SYMROOT = "/Users/samu/repos/samu/playdate-devtest-c-api/build/build";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		47024131E46149FC965BA1F1 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1C801F7AD0CD4DDD8F43D552 /* Debug */,
+				5069D1A589A94B97A99462EB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		4E661E8B245142E493D073BB /* Build configuration list for PBXProject "3DLibrary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2D03577E2B4B4647B7FC78D2 /* Debug */,
+				FE7C7A9031424228BE17B24A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		77D9ED581297433FA3E36B91 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AE5D3BD1CA04808889D08D9 /* Debug */,
+				E371076587714922A511C465 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F7E27847E29240A0A02B754F /* Build configuration list for PBXNativeTarget "3DLibrary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39EEF86D2F454823962458A5 /* Debug */,
+				678BC8BD6F4B4AFEAC9230B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 040A6A03F48142E5BC219DEB /* Project object */;
+}
