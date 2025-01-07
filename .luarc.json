@@ -1,0 +1,36 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+  "workspace.library": ["$PLAYDATE_SDK_PATH"],
+  "workspace.ignoreDir": ["Examples"],
+  "workspace.preloadFileSize": 1000,
+  "runtime.special": {
+    "import": "require"
+  },
+  "runtime.builtin": {
+    "io": "disable",
+    "os": "disable",
+    "package": "disable"
+  },
+  "completion.requireSeparator": "/",
+  "runtime.version": "Lua 5.4",
+  "runtime.nonstandardSymbol": [
+    "+=",
+    "-=",
+    "*=",
+    "/=",
+    "//=",
+    "%=",
+    "<<=",
+    ">>=",
+    "&=",
+    "|=",
+    "^="
+  ],
+  "diagnostics.disable": [
+    "lowercase-global",
+    "undefined-global",
+    "undefined-field",
+    "unknown-symbol"
+  ],
+  "diagnostics.libraryFiles": "Disable"
+}

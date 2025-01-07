@@ -1,7 +1,0 @@
-Target dependency graph (3 targets)
-Target 'ALL_BUILD' in project '3DLibrary'
-➜ Explicit dependency on target '3DLibrary' in project '3DLibrary'
-➜ Explicit dependency on target 'ZERO_CHECK' in project '3DLibrary'
-Target '3DLibrary' in project '3DLibrary'
-➜ Explicit dependency on target 'ZERO_CHECK' in project '3DLibrary'
-Target 'ZERO_CHECK' in project '3DLibrary' (no dependencies)
