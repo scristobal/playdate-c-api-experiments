@@ -11,6 +11,6 @@
 
 #include "pd_api.h"
 
-void register3D(PlaydateAPI* playdate);
+void register3D(PlaydateAPI *playdate);
 
 #endif /* _d_glue_h */

@@ -1,4 +1,3 @@
-
 -- first, we compute the vertices of an icosohedron:
 
 local p = (math.sqrt(5) - 1) / 2
@@ -54,7 +53,6 @@ scene = lib3d.scene.new()
 scene:setCameraOrigin(0, 0, -4)
 scene:setLight(0.2, 0.8, 0.4)
 
-
 -- add six copies of the shape to the scene
 
 n = scene:getRootNode()
@@ -90,7 +88,6 @@ n6:setColorBias(-0.8)
 n6:setWireframeMode(1)
 n6:setWireframeColor(1)
 
-
 -- and we're ready to go!
 
 local gfx = playdate.graphics
@@ -101,11 +98,10 @@ local dz = 0
 
 --playdate.startAccelerometer()
 
-rot1 = lib3d.matrix.newRotation(5,0,0,1)
-rot2 = lib3d.matrix.newRotation(3,0,1,0)
+rot1 = lib3d.matrix.newRotation(5, 0, 0, 1)
+rot2 = lib3d.matrix.newRotation(3, 0, 1, 0)
 
 function playdate.update()
-
 	if dx ~= 0 or dz ~= 0 then
 		x += dx / 10
 		z += dz / 10
@@ -113,13 +109,13 @@ function playdate.update()
 	end
 
 	--local x, y = playdate.readAccelerometer()
-	
+
 	--n:setTransform(lib3d.matrix.newRotation(y*100,1,0,0))
 	--n:addTransform(lib3d.matrix.newRotation(x*100,0,1,0))
 
 	n:addTransform(rot2)
 	n:addTransform(rot1)
-	
+
 	gfx.clear(gfx.kColorBlack)
 	scene:draw()
 end
@@ -129,11 +125,27 @@ function playdate.cranked()
 	scene:setCameraUp(math.sin(a), math.cos(a), 0)
 end
 
-function playdate.upButtonDown()	dz += 1		end
-function playdate.upButtonUp()		dz -= 1		end
-function playdate.downButtonDown()	dz -= 1		end
-function playdate.downButtonUp()	dz += 1		end
-function playdate.leftButtonDown()	dx -= 1		end
-function playdate.leftButtonUp()	dx += 1		end
-function playdate.rightButtonDown()	dx += 1		end
-function playdate.rightButtonUp()	dx -= 1		end
+function playdate.upButtonDown()
+	dz += 1
+end
+function playdate.upButtonUp()
+	dz -= 1
+end
+function playdate.downButtonDown()
+	dz -= 1
+end
+function playdate.downButtonUp()
+	dz += 1
+end
+function playdate.leftButtonDown()
+	dx -= 1
+end
+function playdate.leftButtonUp()
+	dx += 1
+end
+function playdate.rightButtonDown()
+	dx += 1
+end
+function playdate.rightButtonUp()
+	dx -= 1
+end

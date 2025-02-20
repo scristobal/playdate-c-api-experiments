@@ -8,9 +8,6 @@
 
 #include "mini3d.h"
 
-void* (*m3d_realloc)(void* ptr, size_t size);
+void *(*m3d_realloc)(void *ptr, size_t size);
 
-void mini3d_setRealloc(void* (*realloc)(void* ptr, size_t size))
-{
-	m3d_realloc = realloc;
-}
+void mini3d_setRealloc(void *(*realloc)(void *ptr, size_t size)) { m3d_realloc = realloc; }

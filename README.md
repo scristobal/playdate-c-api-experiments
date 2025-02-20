@@ -42,7 +42,7 @@ You might also want to install the [playdate-types](https://github.com/balpha/pl
 
 ```bash
 cd build
-cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 ..
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 .
 ```
 
 and then from root

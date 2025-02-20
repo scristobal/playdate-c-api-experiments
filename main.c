@@ -9,16 +9,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "pd_api.h"
 #include "luaglue.h"
+#include "pd_api.h"
 
 #ifdef _WINDLL
 __declspec(dllexport)
 #endif
 int eventHandler(PlaydateAPI* playdate, PDSystemEvent event, uint32_t arg)
 {
-	if ( event == kEventInitLua )
-		register3D(playdate);
+  if (event == kEventInitLua)
+    register3D(playdate);
 
-	return 0;
+  return 0;
 }

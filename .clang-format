@@ -1,0 +1,4 @@
+BasedOnStyle: LLVM  # You can change this to Google, Mozilla, etc.
+IndentWidth: 2       # Set indentation size to 4 spaces
+UseTab: Never        # Force spaces instead of tabs
+ColumnLimit: 100     # Adjust line wrapping (optional)
