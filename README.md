@@ -4,34 +4,69 @@ Untitled Playdate game, devtest project using the C API
 
 ## Setup
 
-If using Visual Studio Code, fastest way is to create a project using the template [cookiecutter-playdate](https://github.com/midouest/cookiecutter-playdate).
+Install the [Playdate SDK](https://play.date/dev/)
 
-Alternatively, copy an example project from the [Playdate SDK](https://play.date/dev/)
+To get started, copy an example project from the [Playdate SDK](https://play.date/dev/)
 
 ```bash
 cp -r $PLAYDATE_SDK_PATH/C_API/Examples/<example>/ .
 ```
 
-You might also want to install the [playdate-types](https://github.com/balpha/playdate-types) and be sure the [`.luarc.json`](.luarc.json) and [`.lua-format`](.lua-format) files are in the root of the repo. (Alternative types <https://github.com/notpeter/playdate-luacats>)
-
+### Build for the simulator
 
 To produce a `.pdx` file that can be loaded in the simulator or side loaded with cmake:
 
 ```bash
-mkdir build && cd build
-cmake ..
-make
+cmake -S . -B build
+cmake --build build
 ```
+
+### Build for the device
 
 Too generate the ARM binary:
 
 ```bash
-mkdir build_target && build_target
-cmake -DCMAKE_TOOLCHAIN_FILE=$PLAYDATE_SDK_PATH/C_API/buildsupport/arm.cmake ..
-make
+cmake -S . -B build_arm -DCMAKE_TOOLCHAIN_FILE=$PLAYDATE_SDK_PATH/C_API/buildsupport/arm.cmake
+cmake --build build_arm
 ```
 
-You might need to install `arm-none-eabi-newlib` from <https://developer.arm.com/downloads/-/gnu-rm> or with `brew install --cask gcc-arm-embedded`
+You might need to install [`arm-none-eabi-newlib`](https://developer.arm.com/downloads/-/gnu-rm) eg. `brew install --cask gcc-arm-embedded
+
+### Lua LSP support (NeoVim)
+
+You might also want to install the [playdate-types](https://github.com/balpha/playdate-types) and be sure the [`.luarc.json`](.luarc.json) and [`.lua-format`](.lua-format) files are in the root of the repo. (Alternative types <https://github.com/notpeter/playdate-luacats>)
+
+`
+
+### C LSP support (NeoVim)
+
+```bash
+cd build
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 ..
+```
+
+and then from root
+
+```bash
+ln -s build/compile_commands.json .
+```
+
+alternatively use [Bear](https://github.com/rizsotto/Bear), eg. `brew install bear` and then
+
+```bash
+bear -- make
+```
+
+or
+
+```bash
+bear -- ninja
+```
 
 ---
+
+If using Visual Studio Code, fastest way is to create a project using the template [cookiecutter-playdate](https://github.com/midouest/cookiecutter-playdate)
+
+---
+
 Adapted from <https://sdk.play.date/inside-playdate-with-c/#_xcodecmake>
