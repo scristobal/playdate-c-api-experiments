@@ -30,7 +30,7 @@ cmake -S . -B build_arm -DCMAKE_TOOLCHAIN_FILE=$PLAYDATE_SDK_PATH/C_API/buildsup
 cmake --build build_arm
 ```
 
-You might need to install [`arm-none-eabi-newlib`](https://developer.arm.com/downloads/-/gnu-rm) eg. `brew install --cask gcc-arm-embedded
+You might need to install [`arm-none-eabi-newlib`](https://developer.arm.com/downloads/-/gnu-rm) eg. `brew install --cask gcc-arm-embedded` or `pacman -S arm-none-eabi-newlib`
 
 ### Lua LSP support (NeoVim)
 
@@ -51,7 +51,7 @@ and then from root
 ln -s build/compile_commands.json .
 ```
 
-alternatively use [Bear](https://github.com/rizsotto/Bear), eg. `brew install bear` and then
+alternatively use [Bear](https://github.com/rizsotto/Bear), eg. `brew install bear` or `pacman -S bear` and then
 
 ```bash
 bear -- make
