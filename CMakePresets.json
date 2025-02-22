@@ -1,36 +1,40 @@
 {
-  "version": 3,
-  "cmakeMinimumRequired": {
-    "major": 3,
-    "minor": 19
-  },
-  "configurePresets": [
-    {
-      "name": "gcc",
-      "hidden": false,
-      "description": "Use GCC as compiler",
-      "generator": "Ninja",
-      "cacheVariables": {
-        "CMAKE_C_COMPILER": "gcc-14",
-        "CMAKE_CXX_COMPILER": "g++-14"
-      }
+    "version": 3,
+    "cmakeMinimumRequired": {
+        "major": 3,
+        "minor": 19
     },
-    {
-      "name": "clang",
-      "hidden": false,
-      "description": "Use Clang as compiler",
-      "generator": "Ninja",
-      "cacheVariables": {
-        "CMAKE_C_COMPILER": "clang",
-        "CMAKE_CXX_COMPILER": "clang++"
-      }
-    }
-  ],
-  "buildPresets": [
-    {
-      "name": "gcc-release",
-      "configurePreset": "gcc",
-      "configuration": "Release"
-    }
-  ]
+    "configurePresets": [
+        {
+            "name": "simulator",
+            "hidden": false,
+            "description": "Use GCC as compiler for Simulator",
+            "generator": "Ninja",
+            "cacheVariables": {
+                "CMAKE_C_COMPILER": "gcc-14",
+                "CMAKE_CXX_COMPILER": "g++-14"
+            }
+        },
+        {
+            "name": "device",
+            "hidden": false,
+            "description": "Use Playdate SDK toolchain for ARM build",
+            "generator": "Ninja",
+            "cacheVariables": {
+                "CMAKE_TOOLCHAIN_FILE": "$env{PLAYDATE_SDK_PATH}/C_API/buildsupport/arm.cmake"
+            }
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "simulator",
+            "configurePreset": "gcc",
+            "configuration": "Debug"
+        },
+        {
+            "name": "device",
+            "configurePreset": "device",
+            "configuration": "Release"
+        }
+    ]
 }

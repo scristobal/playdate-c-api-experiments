@@ -69,4 +69,4 @@ If using Visual Studio Code, fastest way is to create a project using the templa
 
 ---
 
-Adapted from <https://sdk.play.date/inside-playdate-with-c/#_xcodecmake>
+Reference document <https://sdk.play.date/inside-playdate-with-c>
