@@ -28,7 +28,7 @@
     "buildPresets": [
         {
             "name": "simulator",
-            "configurePreset": "gcc",
+            "configurePreset": "simulator",
             "configuration": "Debug"
         },
         {
