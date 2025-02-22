@@ -4,9 +4,7 @@ Untitled Playdate game, devtest project using the C API
 
 ## Setup
 
-Install the [Playdate SDK](https://play.date/dev/)
-
-To get started, copy an example project from the [Playdate SDK](https://play.date/dev/)
+Install the [Playdate SDK](https://play.date/dev/) and copy an example project from the [Playdate SDK](https://play.date/dev/)
 
 ```bash
 cp -r $PLAYDATE_SDK_PATH/C_API/Examples/<example>/ .
@@ -21,9 +19,11 @@ cmake -S . -B build
 cmake --build build
 ```
 
+Or you can use gcc/clang with a preset, eg. `cmake --preset=gcc`
+
 ### Build for the device
 
-Too generate the ARM binary:
+To generate the ARM binary that you can upload to the device:
 
 ```bash
 cmake -S . -B build_arm -DCMAKE_TOOLCHAIN_FILE=$PLAYDATE_SDK_PATH/C_API/buildsupport/arm.cmake
@@ -34,9 +34,9 @@ You might need to install [`arm-none-eabi-newlib`](https://developer.arm.com/dow
 
 ### Lua LSP support (NeoVim)
 
-You might also want to install the [playdate-types](https://github.com/balpha/playdate-types) and be sure the [`.luarc.json`](.luarc.json) and [`.lua-format`](.lua-format) files are in the root of the repo. (Alternative types <https://github.com/notpeter/playdate-luacats>)
+You might also want to install the [playdate-types](https://github.com/balpha/playdate-types) and be sure the [`.luarc.json`](.luarc.json) and [`.lua-format`](.lua-format) files are in the root of the repo. 
 
-`
+Alternatively you can use [playdate-luacats](https://github.com/notpeter/playdate-luacats).
 
 ### C LSP support (NeoVim)
 
