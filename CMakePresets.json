@@ -8,18 +8,12 @@
         {
             "name": "simulator",
             "hidden": false,
-            "description": "Use GCC as compiler for Simulator",
-            "generator": "Ninja",
-            "cacheVariables": {
-                "CMAKE_C_COMPILER": "gcc-14",
-                "CMAKE_CXX_COMPILER": "g++-14"
-            }
+            "description": "Compilie for the PlayDate Simulator"
         },
         {
             "name": "device",
             "hidden": false,
-            "description": "Use Playdate SDK toolchain for ARM build",
-            "generator": "Ninja",
+            "description": "Compile using the Playdate SDK toolchain for ARM build",
             "cacheVariables": {
                 "CMAKE_TOOLCHAIN_FILE": "$env{PLAYDATE_SDK_PATH}/C_API/buildsupport/arm.cmake"
             }
@@ -29,7 +23,7 @@
         {
             "name": "simulator",
             "configurePreset": "simulator",
-            "configuration": "Debug"
+            "configuration": ""
         },
         {
             "name": "device",

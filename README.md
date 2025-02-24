@@ -4,13 +4,12 @@ Untitled Playdate game, devtest project using the C API
 
 ## Setup
 
-Install the [Playdate SDK](https://play.date/dev/) and copy an example project from the [Playdate SDK](https://play.date/dev/)
+Install the [Playdate SDK](https://play.date/dev/).
 
-```bash
-cp -r $PLAYDATE_SDK_PATH/C_API/Examples/<example>/ .
-```
+You might also want to install the [playdate-types](https://github.com/balpha/playdate-types) and be sure the [`.luarc.json`](.luarc.json) and [`.lua-format`](.lua-format) files are in the root of the repo. 
 
-### Build for the simulator
+
+## Build for the simulator
 
 To produce a `.pdx` file that can be loaded in the simulator or side loaded with cmake:
 
@@ -19,7 +18,7 @@ cmake -S . -B build
 cmake --build build
 ```
 
-Or you can use gcc/clang with a preset, eg. `cmake --preset=gcc`
+Or you can use the included preset, eg. `cmake --preset=simulator`
 
 ### Build for the device
 
@@ -32,41 +31,10 @@ cmake --build build_arm
 
 You might need to install [`arm-none-eabi-newlib`](https://developer.arm.com/downloads/-/gnu-rm) eg. `brew install --cask gcc-arm-embedded` or `pacman -S arm-none-eabi-newlib`
 
-### Lua LSP support (NeoVim)
+Or you can use the `device` preset, eg. `cmake --preset=device`
 
-You might also want to install the [playdate-types](https://github.com/balpha/playdate-types) and be sure the [`.luarc.json`](.luarc.json) and [`.lua-format`](.lua-format) files are in the root of the repo. 
+## Links
 
-Alternatively you can use [playdate-luacats](https://github.com/notpeter/playdate-luacats).
+- [Inside PlayDate with C](https://sdk.play.date/inside-playdate-with-c) the official C guide for PlayDate
+- [playdate-luacats](https://github.com/notpeter/playdate-luacats) an alternative Lua type definitions.
 
-### C LSP support (NeoVim)
-
-```bash
-cd build
-cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 .
-```
-
-and then from root
-
-```bash
-ln -s build/compile_commands.json .
-```
-
-alternatively use [Bear](https://github.com/rizsotto/Bear), eg. `brew install bear` or `pacman -S bear` and then
-
-```bash
-bear -- make
-```
-
-or
-
-```bash
-bear -- ninja
-```
-
----
-
-If using Visual Studio Code, fastest way is to create a project using the template [cookiecutter-playdate](https://github.com/midouest/cookiecutter-playdate)
-
----
-
-Reference document <https://sdk.play.date/inside-playdate-with-c>
